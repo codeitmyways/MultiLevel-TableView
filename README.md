@@ -6,9 +6,6 @@ this is example for Multi Level expand collpase in table view with selection
   https://appetize.io/app/xvdzhyzc7dd67fvatxvxmy9dyc
 
 
-![alt text1][logo]
+<img src="Screenshot1.png" alt="drawing" width="200"/>
 
-[logo]: Screenshot1.png "Title Text"
-
-![alt text1][logo]
-[logo]: Screenshot2.png "Title Text"
+<img src="Screenshot2.png" alt="drawing" width="200"/>
